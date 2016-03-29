@@ -1,0 +1,15 @@
+
+Explain, generally what is meant by a NoSQL database.
+
+
+A NoSQL database environment is, simply put, a non-relational and largely distributed database system that enables rapid,
+ad-hoc organization and analysis of extremely high-volume, disparate data types. NoSQL databases are sometimes referred
+to as cloud databases, non-relational databases, Big Data databases and a myriad of other terms and were developed in
+response to the sheer volume of data being generated, stored and analyzed by modern users (user-generated data) and
+their applications (machine-generated data).
+
+In general, NoSQL databases have become the first alternative to relational databases, with scalability, availability,
+and fault tolerance being key deciding factors. They go well beyond the more widely understood legacy, relational
+databases (such as Oracle, SQL Server and DB2 databases) in satisfying the needs of today’s modern business
+applications. A very flexible and schema-less data model, horizontal scalability, distributed architectures, and the
+use of languages and interfaces that are “not only” SQL typically characterize this technology.

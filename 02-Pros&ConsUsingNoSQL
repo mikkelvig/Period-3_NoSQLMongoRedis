@@ -1,0 +1,24 @@
+
+Explain pros & cons in using a NoSQL database like MongoDB
+
+
+Pros:
+
+- As a rule of thumb you can find a NoSQL database that fits exactly your specific needs.
+
+- If you're lucky your NoSQL database could be a very simple one in terms of architecture. So you can easily operate it
+with your own hands without an expensive DBA, plus you may commit changes to this database code manually.
+
+- It is easier to find a cluster database among NoSQL ones rather than among SQL ones. A cluster database means that
+you install it over many machines and it's working across all those machines as if it was the only one machine.
+
+
+Cons:
+
+- NoSQL databases haven't been around here for so long. They might have some annoying bugs, poor documentation or
+unexpected behavior.
+
+- You obviously don't have a universal language like SQL. So be prepared to change completely your app code base as
+you're moving towards another NoSQL solution.
+
+- Sometimes it is not easy to find support for a NoSQL DB, even if you're ok to pay for it.

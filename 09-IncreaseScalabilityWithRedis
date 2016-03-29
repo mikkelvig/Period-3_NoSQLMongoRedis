@@ -1,0 +1,12 @@
+
+Explain, using a relevant example, how redis (or a similar) can increase scalability (drastic) for a server using
+server side sessions.
+
+
+When a customer or user logs in, they authenticate and receive a token. This token then allows them to interact
+with any server in your web tier - the token is sent each time. There is no need for a "master" server and "slave"
+servers, because each server is the same. This allows you to scale horizontally very easily.
+The session data is then stored in a fast database like Redis.
+
+
+https://developer.rackspace.com/blog/scaling-horizontally-handling-sessions-on-the-open-cloud/

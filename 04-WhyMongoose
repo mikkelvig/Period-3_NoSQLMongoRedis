@@ -1,0 +1,11 @@
+
+Explain reasons to add a layer like Mongoose, on top of a schema-less database like MongoDB.
+
+
+Mongoose is an ORM-like tool for MongoDB. Mongoose provides a straight-forward, schema-based solution to model your
+application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of
+the box.
+Mongoose adds another layer of robustness on top of MongoDB. Write less code, easier to read code (object modeling)
+and schema validation.
+MongoDB is schema-less and Mongoose adds schemas. This might seem counterintuitive at first, but real life data often
+has structure and types.

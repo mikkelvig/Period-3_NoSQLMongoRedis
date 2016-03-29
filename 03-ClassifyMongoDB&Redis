@@ -1,0 +1,22 @@
+
+Explain how databases like MongoDB and Redis would be classified in the NoSQL world.
+
+
+Overall there are 4 different types of NoSQL databases:
+Document stores, Graph stores, Key-value stores and Wide-column stores.
+
+Redis is a Key-value store, and MongoDB is a Document store type database.
+
+
+- Document databases pair each key with a complex data structure known as a document. Documents can contain many different
+key-value pairs, or key-array pairs, or even nested documents.
+
+- Graph stores are used to store information about networks of data, such as social connections. Graph stores include
+Neo4J and Giraph.
+
+- Key-value stores are the simplest NoSQL databases. Every single item in the database is stored as an attribute name
+(or "key"), together with its value. Examples of key-value stores are Riak and Berkeley DB. Some key-value stores,
+such as Redis, allow each value to have a type, such as "integer", which adds functionality.
+
+- Wide-column stores such as Cassandra and HBase are optimized for queries over large datasets, and store columns of data
+together, instead of rows.

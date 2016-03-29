@@ -1,0 +1,17 @@
+
+Period 3 - NoSQL, MongoDB + Mongoose & Redis
+
+Mikkel Vig
+
+This is my hand-in for the 3. period MEAN JavaScript course. In this project, i have one file for each question,
+except for in two cases, where an additional file was necessary.
+The additional files are: session.js used for question 8, and user.js witch is used for question 7.
+
+
+
+
+Sources:
+http://www.planetcassandra.org/what-is-nosql/#nosql-explained
+https://www.quora.com/What-are-the-pros-and-cons-of-NoSQL-databases
+https://www.mongodb.com/nosql-explained
+http://mongoosejs.com/
